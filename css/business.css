@@ -1,0 +1,66 @@
+.joinNETBO{
+    background:url("../img/joinNETBO.png")no-repeat;
+    height:31rem;
+    background-position:center center;
+    background-size:cover;
+}
+.aboutNETBO{
+    background:url("../img/aboutNETBO.png")no-repeat;
+    background-position:0 2rem;
+    width:96%;
+    height:45rem;
+    list-style: none;
+    box-shadow: 0rem 0rem 5rem rgb(233, 237, 251);
+    line-height: 2rem;
+    margin: 4.2rem 1rem;
+    font-size:1em;
+    border-radius:2rem;
+}
+.aboutNETBO>img{
+    float:left;
+    margin-top:3.5rem;
+}
+.introLine>span{
+    font-size: 1.8em;
+    line-height: 7.2rem;
+    margin-left: 1.9rem;
+    letter-spacing: 0.4rem;
+    color:white;
+    float:left;
+}
+.introLine{
+    width:64rem;
+    height:7.3rem;
+    float: left;
+
+}
+.textContent>span{
+    font-size:1.5em;
+    line-height: 2.2rem;
+    color:#3d3d3d;
+    white-space:nowrap;
+}
+.textContent{
+    width:97%;
+    margin:0 auto;
+}
+.contact>li{
+    list-style: none;
+    float:left;
+    font-size:1.6em;
+    line-height: 4.5rem;
+    color:#3d3d3d;
+    width:50%;
+}
+.contactBox{
+    height:21rem;
+    background:url("../img/aboutNETBO.png")no-repeat;
+    background-position:0 2rem;
+    width:96%;
+    list-style: none;
+    box-shadow: 0rem 0rem 5rem rgb(233, 237, 251);
+    line-height: 2rem;
+    margin: 4.2rem 2rem;
+    font-size:1em;
+    border-radius:2rem;}
+

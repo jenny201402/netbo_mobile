@@ -1,0 +1,72 @@
+.freeActContent {
+    background: url(../img/freeActive.png);
+    background-size: cover;
+    margin: 1.7rem auto;
+    /* width: 45rem; */
+    height: 6rem;
+    background-position: center;
+}
+.promotion{
+    /*width: 45rem;*/
+    height:26rem;
+    margin:1.7rem auto;
+    background:url("../img/promotion.png")no-repeat;
+    background-position: center center;
+    background-size:cover;
+}
+.promotion > img {
+    float: right;
+}
+.casinoIntro{
+    font-size: 1.9em;
+    letter-spacing: 0.2rem;
+}
+.casinoIntro>b{
+    color:#000;
+    margin-left:0.6rem;
+}
+
+.share{
+    line-height: 1.8rem;
+    float: right;
+    font-size: 1.4em;
+    margin-right: 2.5rem;
+    margin-left: 1rem;
+}
+.contentText{
+    margin-top: 0.7rem;
+    height:8rem;
+}
+.contentText>a>span{
+    margin:0;
+    font-size:1.7em;
+    color:#333;
+    margin-left:0.6rem;
+}
+.contentText>a>span>.choose{
+    margin-left:0.6rem;
+}
+.contentText>a>.reward{
+    margin-left:5.2rem;
+}
+.freeBonus{
+    width:6.6rem;
+    height: 4.7rem;
+    margin-top:-4.7rem;
+    float: right;
+    margin-right: 2rem;
+    background-color: #ef3c3c;
+    text-align: center;
+}
+.freeBonus>span{
+    line-height: 2.2rem;
+    color: #ffffff;
+    font-size: 1.1em;
+}
+.contentText>.effective{
+    color:#333;
+    font-size:1.4em;
+    float:right;
+    /*line-height: 0.3rem;*/
+    margin-right:2.6rem;
+}
